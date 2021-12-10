@@ -21,7 +21,7 @@
 
 
 ### Shocking No.3
- <img src="https://github.com/leeseomin/Anxiety/blob/main/art/abyss3h.png" width="2000">
+ <img src="https://github.com/leeseomin/Anxiety/blob/main/art/Shocking%20No.3.png" width="2000">
  
    <br/>   <br/> 
 
